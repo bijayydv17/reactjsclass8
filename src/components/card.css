@@ -1,0 +1,11 @@
+.custom-card-img:hover img {
+    transform: scale(1.5);
+}
+
+.custom-card-img {
+    overflow: hidden;
+}
+
+.custom-card-img img {
+    transition: all 3s;
+}
